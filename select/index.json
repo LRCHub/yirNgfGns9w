@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "STEP by STEP UP↑↑↑↑",
+  "base_artist": "fourfolium",
+  "createdAt": "2025-12-20T10:46:24.305278Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "STEP BY STEP UP↑↑↑↑",
+      "artist": "fourfolium",
+      "has_synced": true,
+      "path": "select/01_STEP_BY_STEP_UP↑↑↑↑_fourfolium.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "STEP by STEP UP↑↑↑↑",
+      "artist": "fourfolium",
+      "has_synced": true,
+      "path": "select/02_STEP_by_STEP_UP↑↑↑↑_fourfolium.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "STEP by STEP UP↑↑↑↑",
+      "artist": "fourfolium",
+      "has_synced": true,
+      "path": "select/03_STEP_by_STEP_UP↑↑↑↑_fourfolium.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "STEP by STEP UP↑↑↑↑",
+      "artist": "fourfolium(高田憂希・山口愛戸田めぐみ・竹尾歩美)",
+      "has_synced": true,
+      "path": "select/04_STEP_by_STEP_UP↑↑↑↑_fourfolium(高田憂希・山口愛戸田めぐみ・竹尾歩美).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "STEP by STEP UP↑↑↑↑",
+      "artist": "fourfolium",
+      "has_synced": false,
+      "path": "select/05_STEP_by_STEP_UP↑↑↑↑_fourfolium.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "STEP by STEP UP↑↑↑↑",
+      "artist": "fourfolium (高田憂希, 山口愛, 戸田めぐみ, 竹尾歩美)",
+      "has_synced": true,
+      "path": "select/06_STEP_by_STEP_UP↑↑↑↑_fourfolium_(高田憂希,_山口愛,_戸田めぐみ,_竹尾歩美).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "STEP by STEP UP↑↑↑↑ (instrumental)",
+      "artist": "fourfolium (高田憂希, 山口愛, 戸田めぐみ, 竹尾歩美)",
+      "has_synced": true,
+      "path": "select/07_STEP_by_STEP_UP↑↑↑↑_(instrumental)_fourfolium_(高田憂希,_山口愛,_戸田めぐみ,_竹尾歩美).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "STEP by STEP UP↑↑↑↑",
+      "artist": "fourfolium〔涼風青葉(CV:高田憂希)/滝本ひふみ(CV:山口愛)/篠田はじめ(CV:戸田めぐみ)/飯島ゆん(CV:竹尾歩美)〕",
+      "has_synced": true,
+      "path": "select/08_STEP_by_STEP_UP↑↑↑↑_fourfolium〔涼風青葉(CV_高田憂希)_滝本ひふみ(CV_山口愛)_篠田はじめ(CV_戸田めぐみ)_飯島ゆん(CV_竹尾歩美)〕.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "STEP by STEP UP↑↑↑↑",
+      "artist": "fourfolium[涼風青葉(CV:高田憂希)/滝本ひふみ(CV:山口愛)/篠田はじめ(CV:戸田めぐみ)/飯島ゆん(CV:竹尾歩美)]",
+      "has_synced": true,
+      "path": "select/09_STEP_by_STEP_UP↑↑↑↑_fourfolium[涼風青葉(CV_高田憂希)_滝本ひふみ(CV_山口愛)_篠田はじめ(CV_戸田めぐみ)_飯島ゆん(CV_竹尾歩美)].lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "STEP by STEP UP↑↑↑↑",
+      "artist": "fourfolium",
+      "has_synced": false,
+      "path": "select/pl_01_STEP_by_STEP_UP↑↑↑↑_fourfolium.txt"
+    }
+  ]
+}
